@@ -1,2 +1,8 @@
+
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+# Article
+https://interviewing.io/blog/2022-layoffs-engineers-vs-other-departments
+
+# Paragraph
+Insert article here.
